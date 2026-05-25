@@ -12,4 +12,3 @@ def home():
 if __name__ == "__main__":
     # host=0.0.0.0 để container bên ngoài truy cập được
     app.run(host="0.0.0.0", port=5000)
-git
